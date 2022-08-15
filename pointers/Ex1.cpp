@@ -14,7 +14,7 @@ printf("le produit est :%.2f\n",*p * *pt);
 //la difference
 printf("la difference est :%.2f\n",*p - *pt);
 //devision de deux nombre rell
-	if(*p!=0)
+	if(*pt!=0)
 		printf("la devision est :%.2f\n",*p / *pt);
 	else{
 		printf("Impossible de deviser par 0 !!!");
