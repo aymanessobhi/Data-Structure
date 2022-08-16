@@ -21,7 +21,7 @@ for(p=t;p<t+n;p++){
 }
 n=n-*pt;
 
-printf("les elements du tableau aprea l'elemination des occurences de %d sont: \n",x);
+printf("les elements du tableau apres l'elemination des occurences de %d sont: \n",x);
 for(p=t;p<t+n;p++){
 	printf(" %d ",*p);
 }
