@@ -20,6 +20,7 @@ for(;pb<b+n;pb++){
 for(pa=a+m,pb=b;pa<a+m+n;pa++,pb++){	
 	*pa=*pb;
 }
+printf("Entrer les elements de tableau b :\n");
 for(pa=a;pa<a+n+m;pa++){
 	printf(" %d ",*pa);
 }
